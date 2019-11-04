@@ -1,6 +1,6 @@
 name: cek_akreditasi
-description: Cek akreditasi institusi online
-version: 1.0.0+1
+description: Cek akreditasi institusi perguruan tinggi online
+version: 1.0.1+2
 environment:
   sdk: ">=2.1.0 <3.0.0"
 dependencies:

@@ -257,6 +257,7 @@ class _MainScreenState extends State<MainScreen> {
     if (value == null || value.trim() == "") {
       if (_pureData.length > 0) {
         _data.addAll(_pureData);
+        _setTotalPage(1);
       } else {
         _getData();
       }
