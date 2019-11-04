@@ -325,7 +325,7 @@ class _MainScreenState extends State<MainScreen> {
         context: context,
         builder: (context) {
           return NAlertDialog(
-            title: Text("Urutkan Berdasarkan"),
+            title: Text("Urut Berdasarkan"),
             content: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               mainAxisSize: MainAxisSize.min,
