@@ -7,8 +7,8 @@ Aplikasi sederhana untuk mengecek akreditasi institusi perguruan tinggi yang ter
 * Pengurutan daftar institusi
 
 ## Sumber Daya pada aplikasi
-* Data yang ditampilkan dari aplikasi ini berdasarkan Situs (Banpt)[https://www.banpt.or.id]
-* Asset Ilustrasi dari (Undraw)[https://undraw.co]
+* Data yang ditampilkan dari aplikasi ini berdasarkan Situs [Banpt](https://www.banpt.or.id)
+* Asset Ilustrasi dari [Undraw](https://undraw.co)
 
 
 ## Tentang Saya  
